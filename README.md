@@ -8,7 +8,7 @@ The purpose of this project is to learn the very basic of speech recognition by 
 of the project I started with distinguishing between two words in matlab. In later stages
 I expanded the system to a DSP and distinguish between three instead of two.
 
-2.1 Pre-processing phase
+2.1. Pre-processing phase
 
 In the pre-processing state a signal from a microphone (DSP) or from a .wav file (matlab)
 is put through a filter as displayed in the figures below.
