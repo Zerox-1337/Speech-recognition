@@ -1,7 +1,4 @@
 # Speech-recognition
-
-
-
 1. Introduction
 
 The purpose of this project is to learn the very basic of speech recognition by implementing a system on a DSP that can distinguish between a few spoken words. At the beginning
