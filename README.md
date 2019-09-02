@@ -1,6 +1,6 @@
 # Speech-recognition
 
-1 Introduction
+1. Introduction
 
 The purpose of this project is to learn the very basic of speech recognition by implementing a system on a DSP that can distinguish between a few spoken words. At the beginning
 of the project I started with distinguishing between two words in matlab. In later stages
